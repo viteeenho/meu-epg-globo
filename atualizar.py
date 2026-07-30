@@ -1,6 +1,5 @@
 import datetime
 import requests
-from bs4 import BeautifulSoup
 
 # Dicionário completo com os IDs e os links oficiais fornecidos
 urls_pracas = {
@@ -44,7 +43,7 @@ for canal_id, url in urls_pracas.items():
             conteudo_xml += f'    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>\n'
             conteudo_xml += f'  </programme>\n'
         else:
-            print(f"Aviso: A praça {canal_id retornou status {resposta.status_code}}")
+            print(f"Aviso: A praça {canal_id} retornou status {resposta.status_code}")
     except Exception as e:
         print(f"Erro de conexão na praça {canal_id}: {e}")
 
