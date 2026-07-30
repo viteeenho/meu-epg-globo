@@ -11,6 +11,9 @@
   <channel id="GloboBrasilia">
     <display-name lang="pt">TV Globo Brasília</display-name>
   </channel>
+  <channel id="GloboMinas">
+    <display-name lang="pt">TV Globo Minas</display-name>
+  </channel>
 
   <!-- TV TEM (INTERIOR DE SÃO PAULO - AS 4 GERADORAS OFICIAIS) -->
   <channel id="TvTemBauru">
