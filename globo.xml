@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="GloboEPGRegional">
+
+  <!-- SÃO PAULO E CAPITAL -->
+  <channel id="GloboSP.br">
+    <display-name lang="pt">TV Globo São Paulo</display-name>
+  </channel>
+
+  <!-- TV TEM (INTERIOR DE SÃO PAULO) -->
+  <channel id="TvTemBauru.br">
+    <display-name lang="pt">TV TEM Bauru</display-name>
+  </channel>
+  <channel id="TvTemSorocaba.br">
+    <display-name lang="pt">TV TEM Sorocaba</display-name>
+  </channel>
+  <channel id="TvTemMarilia.br">
+    <display-name lang="pt">TV TEM Marília</display-name>
+  </channel>
+  <channel id="TvTemRioPreto.br">
+    <display-name lang="pt">TV TEM São José do Rio Preto</display-name>
+  </channel>
+
+  <!-- OUTRAS AFILIADAS DE SÃO PAULO -->
+  <channel id="TvTribunaSantos.br">
+    <display-name lang="pt">TV Tribuna (Santos e Litoral)</display-name>
+  </channel>
+  <channel id="TvVanguardaVale.br">
+    <display-name lang="pt">TV Vanguarda (Vale do Paraíba)</display-name>
+  </channel>
+
+  <!-- OUTROS ESTADOS E REGIÕES -->
+  <channel id="GloboRJ.br">
+    <display-name lang="pt">TV Globo Rio de Janeiro</display-name>
+  </channel>
+  <channel id="GloboMinas.br">
+    <display-name lang="pt">TV Globo Minas</display-name>
+  </channel>
+  <channel id="GloboBrasilia.br">
+    <display-name lang="pt">TV Globo Brasília</display-name>
+  </channel>
+  <channel id="GloboCeara.br">
+    <display-name lang="pt">TV Globo Ceará</display-name>
+  </channel>
+  <channel id="TvAnhangueraGoias.br">
+    <display-name lang="pt">TV Anhanguera (Goiás)</display-name>
+  </channel>
+  <channel id="GloboMS.br">
+    <display-name lang="pt">TV Globo Mato Grosso do Sul</display-name>
+  </channel>
+  <channel id="TvRedeAmazonica.br">
+    <display-name lang="pt">Rede Amazônica (Amazonas)</display-name>
+  </channel>
+  <channel id="GloboBahia.br">
+    <display-name lang="pt">TV Globo Bahia</display-name>
+  </channel>
+
+</tv>
