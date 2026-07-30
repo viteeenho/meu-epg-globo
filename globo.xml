@@ -1,25 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="AutomacaoEPGGlobo">
-
-  <channel id="GloboSP"><display-name lang="pt">TV Globo São Paulo</display-name></channel>
-  <channel id="GloboRJ"><display-name lang="pt">TV Globo Rio de Janeiro</display-name></channel>
-  <channel id="GloboBrasilia"><display-name lang="pt">TV Globo Brasília</display-name></channel>
-  <channel id="GloboMinas"><display-name lang="pt">TV Globo Minas</display-name></channel>
-  <channel id="TvTemBauru"><display-name lang="pt">TV TEM Bauru e Marília</display-name></channel>
-  <channel id="TvTemSorocaba"><display-name lang="pt">TV TEM Sorocaba</display-name></channel>
-  <channel id="TvTemRioPreto"><display-name lang="pt">TV TEM São José do Rio Preto e Olímpia</display-name></channel>
-  <channel id="TvTemItapetininga"><display-name lang="pt">TV TEM Itapetininga</display-name></channel>
-  <channel id="TvTribunaSantos"><display-name lang="pt">TV Tribuna (Santos)</display-name></channel>
-  <channel id="TvVanguardaVale"><display-name lang="pt">TV Vanguarda (Vale)</display-name></channel>
-  <channel id="GloboCeara"><display-name lang="pt">TV Verdes Mares (Ceará)</display-name></channel>
-  <channel id="TvAnhangueraGoias"><display-name lang="pt">TV Anhanguera (Goiás)</display-name></channel>
-  <channel id="GloboMS"><display-name lang="pt">TV Morena (MS)</display-name></channel>
-  <channel id="RedeAmazonicaManaus"><display-name lang="pt">Rede Amazônica (Manaus)</display-name></channel>
-  <channel id="GlobaBahia"><display-name lang="pt">TV Bahia</display-name></channel>
-
-  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboSP">
-    <title lang="pt">Atualização Automática Diária</title>
-    <desc lang="pt">Grade sincronizada pelo robô.</desc>
+  <channel id="RedeAmazonicaManaus">
+    <display-name lang="pt">RedeAmazonicaManaus</display-name>
+  </channel>
+  <channel id="GloboMinas">
+    <display-name lang="pt">GloboMinas</display-name>
+  </channel>
+  <channel id="GloboBrasilia">
+    <display-name lang="pt">GloboBrasilia</display-name>
+  </channel>
+  <channel id="GloboRJ">
+    <display-name lang="pt">GloboRJ</display-name>
+  </channel>
+  <channel id="GloboSP">
+    <display-name lang="pt">GloboSP</display-name>
+  </channel>
+  <channel id="GloboBahia">
+    <display-name lang="pt">GloboBahia</display-name>
+  </channel>
+  <channel id="GloboCeara">
+    <display-name lang="pt">GloboCeara</display-name>
+  </channel>
+  <channel id="TvAnhangueraGoias">
+    <display-name lang="pt">TvAnhangueraGoias</display-name>
+  </channel>
+  <channel id="TvTemBauru">
+    <display-name lang="pt">TvTemBauru</display-name>
+  </channel>
+  <channel id="TvTemSorocaba">
+    <display-name lang="pt">TvTemSorocaba</display-name>
+  </channel>
+  <channel id="TvTemRioPreto">
+    <display-name lang="pt">TvTemRioPreto</display-name>
+  </channel>
+  <channel id="GloboMS">
+    <display-name lang="pt">GloboMS</display-name>
+  </channel>
+  <channel id="TvVanguardaVale">
+    <display-name lang="pt">TvVanguardaVale</display-name>
+  </channel>
+  <channel id="TvTribunaSantos">
+    <display-name lang="pt">TvTribunaSantos</display-name>
+  </channel>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="RedeAmazonicaManaus">
+    <title lang="pt">Programação Oficial - RedeAmazonicaManaus</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
   </programme>
-
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboMinas">
+    <title lang="pt">Programação Oficial - GloboMinas</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboBrasilia">
+    <title lang="pt">Programação Oficial - GloboBrasilia</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboRJ">
+    <title lang="pt">Programação Oficial - GloboRJ</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboSP">
+    <title lang="pt">Programação Oficial - GloboSP</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboBahia">
+    <title lang="pt">Programação Oficial - GloboBahia</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboCeara">
+    <title lang="pt">Programação Oficial - GloboCeara</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvAnhangueraGoias">
+    <title lang="pt">Programação Oficial - TvAnhangueraGoias</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvTemBauru">
+    <title lang="pt">Programação Oficial - TvTemBauru</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvTemSorocaba">
+    <title lang="pt">Programação Oficial - TvTemSorocaba</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvTemRioPreto">
+    <title lang="pt">Programação Oficial - TvTemRioPreto</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="GloboMS">
+    <title lang="pt">Programação Oficial - GloboMS</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvVanguardaVale">
+    <title lang="pt">Programação Oficial - TvVanguardaVale</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730235959 -0300" channel="TvTribunaSantos">
+    <title lang="pt">Programação Oficial - TvTribunaSantos</title>
+    <desc lang="pt">Sincronizado diretamente do site oficial da emissora.</desc>
+  </programme>
 </tv>
